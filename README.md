@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-using-Machine-Learning
+# Customer Churn Prediction using Machine Learning
 
 
 DQ Telco merupakan perusahaan Telco yang sudah mempunyai banyak cabang tersebar dimana-mana. Sejak berdiri pada tahun 2019, DQ Telco konsisten untuk memperhatikan customer experience-nya sehingga tidak akan ditinggalkan pelanggan.
